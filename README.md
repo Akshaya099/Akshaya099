@@ -4,9 +4,9 @@
   
   ![AI/ML Engineer Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkbjNlNGF0ZG9jd2cxNTdqMTlseG90OGNidjJxOGZ6bmtqdDFlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ydGiyf5Fr1nVb0J0C/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkbjNlNGF0ZG9jd2cxNTdqMTlseG90OGNidjJxOGZ6bmtqdDFlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ydGiyf5Fr1nVb0J0C/giphy.gif" width="500"/>
 
-  ### 🚀 AI/ML Enthusiast | Aspiring Flutter Developer | DSA Learner
+  ### AI/ML Enthusiast 🤖 | Aspiring Flutter Developer 📱 | DSA Learner 📈
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-siva-02aa43282)
   
