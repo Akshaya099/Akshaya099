@@ -58,6 +58,13 @@
   
 </div>
 
+## 🏆 GeeksforGeeks Stats
+<div align="center">
+  
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=achunagcprd" alt="GFG stats"/>
+  
+</div>
+
 ---
 
 <div align="center">
