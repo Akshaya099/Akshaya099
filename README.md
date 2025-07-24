@@ -31,7 +31,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> &nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="Dart"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask"/> &nbsp;
