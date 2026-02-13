@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![AI/ML Engineer Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
+  ![AI/ML Engineering Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
   
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 
